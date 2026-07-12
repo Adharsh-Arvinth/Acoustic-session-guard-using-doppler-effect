@@ -1,11 +1,5 @@
 # 🔐 Acoustic Doppler Session Guard
 
-![Patent](https://img.shields.io/badge/Patent-Published-success)
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
-![Status](https://img.shields.io/badge/Status-Prototype-brightgreen)
-![Research](https://img.shields.io/badge/Research-Cybersecurity-orange)
-
 > 🚀 **Patent Published**
 >
 > **Acoustic Doppler Session Guard** is a software-defined cybersecurity framework that transforms a laptop's existing speakers and microphone into an acoustic sensing system capable of detecting user presence using the Doppler Effect. The system automatically secures unattended workstations without requiring additional hardware.
@@ -366,7 +360,7 @@ If you use this work in your research, please cite the corresponding published p
   title = {Acoustic Doppler Session Guard},
   year = {2026},
   note = {Patent Published},
-  url = {https://github.com/your-username/Acoustic-Doppler-Session-Guard}
+  url = {https://github.com/Adharsh-Arvinth/Acoustic-session-guard-using-doppler-effect.git}
 }
 ```
 
